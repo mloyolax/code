@@ -7,8 +7,8 @@ VirtualSkynet CodeRepo
 
 2.Download TomeeEE Plus
 
-3.Download https://github.com/virtualskynet/code/lib/ to lib of tomee
+3.Download copy libs to tomee lib dir
 
-4.Import modules from https://github.com/virtualskynet/code/modules
+4.Import modules to your workspace
 
 
