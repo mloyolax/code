@@ -5,9 +5,9 @@ VirtualSkynet CodeRepo
 
 1.Download Eclipse EE
 
-2.Download TomeeEE Plus
+2.Download Apache TomeeEE Webprofile
 
-3.Download copy libs to tomee lib dir
+3.Download copy libs to tomee/lib dir
 
 4.Add in web.xml
 
