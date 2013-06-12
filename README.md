@@ -5,7 +5,7 @@ VirtualSkynet CodeRepo
 
 1.Download Eclipse EE
 
-2.Download Apache TomeeEE Webprofile
+2.Download Apache TomeeEE (webprofile)
 
 3.Download copy libs to tomee/lib dir
 
@@ -15,10 +15,6 @@ VirtualSkynet CodeRepo
   <welcome-file>index.jsf</welcome-file>
 </welcome-file-list>
 
-<context-param>
-  <param-name>primefaces.THEME</param-name>
-  <param-value>hot-sneaks</param-value>
-</context-param>
 
 5.Import modules to your workspace
 
